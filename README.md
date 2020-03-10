@@ -1,5 +1,3 @@
-# zalukaj.com-bruteforce
-
 ```python
 #!/usr/bin/env python
  
