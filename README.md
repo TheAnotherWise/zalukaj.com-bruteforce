@@ -1,4 +1,4 @@
-# zalukaj.com Bruteforce
+# zalukaj.com Bruteforce `no more works`
 
 ```python
 #!/usr/bin/env python
