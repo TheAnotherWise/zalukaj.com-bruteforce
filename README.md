@@ -1,3 +1,5 @@
+# zalukaj.com Bruteforce
+
 ```python
 #!/usr/bin/env python
  
